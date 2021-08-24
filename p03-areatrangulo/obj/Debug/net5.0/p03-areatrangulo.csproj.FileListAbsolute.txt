@@ -1,0 +1,16 @@
+C:\desappint21\p03-areatrangulo\bin\Debug\net5.0\p03-areatrangulo.exe
+C:\desappint21\p03-areatrangulo\bin\Debug\net5.0\p03-areatrangulo.deps.json
+C:\desappint21\p03-areatrangulo\bin\Debug\net5.0\p03-areatrangulo.runtimeconfig.json
+C:\desappint21\p03-areatrangulo\bin\Debug\net5.0\p03-areatrangulo.runtimeconfig.dev.json
+C:\desappint21\p03-areatrangulo\bin\Debug\net5.0\p03-areatrangulo.dll
+C:\desappint21\p03-areatrangulo\bin\Debug\net5.0\ref\p03-areatrangulo.dll
+C:\desappint21\p03-areatrangulo\bin\Debug\net5.0\p03-areatrangulo.pdb
+C:\desappint21\p03-areatrangulo\obj\Debug\net5.0\p03-areatrangulo.csproj.AssemblyReference.cache
+C:\desappint21\p03-areatrangulo\obj\Debug\net5.0\p03-areatrangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\desappint21\p03-areatrangulo\obj\Debug\net5.0\p03-areatrangulo.AssemblyInfoInputs.cache
+C:\desappint21\p03-areatrangulo\obj\Debug\net5.0\p03-areatrangulo.AssemblyInfo.cs
+C:\desappint21\p03-areatrangulo\obj\Debug\net5.0\p03-areatrangulo.csproj.CoreCompileInputs.cache
+C:\desappint21\p03-areatrangulo\obj\Debug\net5.0\p03-areatrangulo.dll
+C:\desappint21\p03-areatrangulo\obj\Debug\net5.0\ref\p03-areatrangulo.dll
+C:\desappint21\p03-areatrangulo\obj\Debug\net5.0\p03-areatrangulo.pdb
+C:\desappint21\p03-areatrangulo\obj\Debug\net5.0\p03-areatrangulo.genruntimeconfig.cache

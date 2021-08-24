@@ -1,0 +1,16 @@
+C:\desappint21\p02-areacirculo\bin\Debug\net5.0\p02-areacirculo.exe
+C:\desappint21\p02-areacirculo\bin\Debug\net5.0\p02-areacirculo.deps.json
+C:\desappint21\p02-areacirculo\bin\Debug\net5.0\p02-areacirculo.runtimeconfig.json
+C:\desappint21\p02-areacirculo\bin\Debug\net5.0\p02-areacirculo.runtimeconfig.dev.json
+C:\desappint21\p02-areacirculo\bin\Debug\net5.0\p02-areacirculo.dll
+C:\desappint21\p02-areacirculo\bin\Debug\net5.0\ref\p02-areacirculo.dll
+C:\desappint21\p02-areacirculo\bin\Debug\net5.0\p02-areacirculo.pdb
+C:\desappint21\p02-areacirculo\obj\Debug\net5.0\p02-areacirculo.csproj.AssemblyReference.cache
+C:\desappint21\p02-areacirculo\obj\Debug\net5.0\p02-areacirculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\desappint21\p02-areacirculo\obj\Debug\net5.0\p02-areacirculo.AssemblyInfoInputs.cache
+C:\desappint21\p02-areacirculo\obj\Debug\net5.0\p02-areacirculo.AssemblyInfo.cs
+C:\desappint21\p02-areacirculo\obj\Debug\net5.0\p02-areacirculo.csproj.CoreCompileInputs.cache
+C:\desappint21\p02-areacirculo\obj\Debug\net5.0\p02-areacirculo.dll
+C:\desappint21\p02-areacirculo\obj\Debug\net5.0\ref\p02-areacirculo.dll
+C:\desappint21\p02-areacirculo\obj\Debug\net5.0\p02-areacirculo.pdb
+C:\desappint21\p02-areacirculo\obj\Debug\net5.0\p02-areacirculo.genruntimeconfig.cache

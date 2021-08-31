@@ -1,16 +1,31 @@
-C:\desappint21\p04-pagatrabajador\obj\Debug\net5.0\p04-pagatrabajador.csproj.AssemblyReference.cache
-C:\desappint21\p04-pagatrabajador\obj\Debug\net5.0\p04-pagatrabajador.GeneratedMSBuildEditorConfig.editorconfig
-C:\desappint21\p04-pagatrabajador\obj\Debug\net5.0\p04-pagatrabajador.AssemblyInfoInputs.cache
-C:\desappint21\p04-pagatrabajador\obj\Debug\net5.0\p04-pagatrabajador.AssemblyInfo.cs
-C:\desappint21\p04-pagatrabajador\obj\Debug\net5.0\p04-pagatrabajador.csproj.CoreCompileInputs.cache
-C:\desappint21\p04-pagatrabajador\bin\Debug\net5.0\p04-pagatrabajador.exe
-C:\desappint21\p04-pagatrabajador\bin\Debug\net5.0\p04-pagatrabajador.deps.json
-C:\desappint21\p04-pagatrabajador\bin\Debug\net5.0\p04-pagatrabajador.runtimeconfig.json
-C:\desappint21\p04-pagatrabajador\bin\Debug\net5.0\p04-pagatrabajador.runtimeconfig.dev.json
-C:\desappint21\p04-pagatrabajador\bin\Debug\net5.0\p04-pagatrabajador.dll
-C:\desappint21\p04-pagatrabajador\bin\Debug\net5.0\ref\p04-pagatrabajador.dll
-C:\desappint21\p04-pagatrabajador\bin\Debug\net5.0\p04-pagatrabajador.pdb
-C:\desappint21\p04-pagatrabajador\obj\Debug\net5.0\p04-pagatrabajador.dll
-C:\desappint21\p04-pagatrabajador\obj\Debug\net5.0\ref\p04-pagatrabajador.dll
-C:\desappint21\p04-pagatrabajador\obj\Debug\net5.0\p04-pagatrabajador.pdb
-C:\desappint21\p04-pagatrabajador\obj\Debug\net5.0\p04-pagatrabajador.genruntimeconfig.cache
+C:/desappint21/p04-pagatrabajador/obj/Debug/net5.0/p04-pagatrabajador.csproj.AssemblyReference.cache
+C:/desappint21/p04-pagatrabajador/obj/Debug/net5.0/p04-pagatrabajador.GeneratedMSBuildEditorConfig.editorconfig
+C:/desappint21/p04-pagatrabajador/obj/Debug/net5.0/p04-pagatrabajador.AssemblyInfoInputs.cache
+C:/desappint21/p04-pagatrabajador/obj/Debug/net5.0/p04-pagatrabajador.AssemblyInfo.cs
+C:/desappint21/p04-pagatrabajador/obj/Debug/net5.0/p04-pagatrabajador.csproj.CoreCompileInputs.cache
+C:/desappint21/p04-pagatrabajador/bin/Debug/net5.0/p04-pagatrabajador.exe
+C:/desappint21/p04-pagatrabajador/bin/Debug/net5.0/p04-pagatrabajador.deps.json
+C:/desappint21/p04-pagatrabajador/bin/Debug/net5.0/p04-pagatrabajador.runtimeconfig.json
+C:/desappint21/p04-pagatrabajador/bin/Debug/net5.0/p04-pagatrabajador.runtimeconfig.dev.json
+C:/desappint21/p04-pagatrabajador/bin/Debug/net5.0/p04-pagatrabajador.dll
+C:/desappint21/p04-pagatrabajador/bin/Debug/net5.0/ref/p04-pagatrabajador.dll
+C:/desappint21/p04-pagatrabajador/bin/Debug/net5.0/p04-pagatrabajador.pdb
+C:/desappint21/p04-pagatrabajador/obj/Debug/net5.0/p04-pagatrabajador.dll
+C:/desappint21/p04-pagatrabajador/obj/Debug/net5.0/ref/p04-pagatrabajador.dll
+C:/desappint21/p04-pagatrabajador/obj/Debug/net5.0/p04-pagatrabajador.pdb
+C:/desappint21/p04-pagatrabajador/obj/Debug/net5.0/p04-pagatrabajador.genruntimeconfig.cache
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p04-pagatrabajador/bin/Debug/net5.0/p04-pagatrabajador.deps.json
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p04-pagatrabajador/bin/Debug/net5.0/p04-pagatrabajador.runtimeconfig.json
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p04-pagatrabajador/bin/Debug/net5.0/p04-pagatrabajador.runtimeconfig.dev.json
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p04-pagatrabajador/bin/Debug/net5.0/p04-pagatrabajador.dll
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p04-pagatrabajador/bin/Debug/net5.0/ref/p04-pagatrabajador.dll
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p04-pagatrabajador/bin/Debug/net5.0/p04-pagatrabajador.pdb
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p04-pagatrabajador/obj/Debug/net5.0/p04-pagatrabajador.csproj.AssemblyReference.cache
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p04-pagatrabajador/obj/Debug/net5.0/p04-pagatrabajador.GeneratedMSBuildEditorConfig.editorconfig
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p04-pagatrabajador/obj/Debug/net5.0/p04-pagatrabajador.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p04-pagatrabajador/obj/Debug/net5.0/p04-pagatrabajador.AssemblyInfo.cs
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p04-pagatrabajador/obj/Debug/net5.0/p04-pagatrabajador.csproj.CoreCompileInputs.cache
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p04-pagatrabajador/obj/Debug/net5.0/p04-pagatrabajador.dll
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p04-pagatrabajador/obj/Debug/net5.0/ref/p04-pagatrabajador.dll
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p04-pagatrabajador/obj/Debug/net5.0/p04-pagatrabajador.pdb
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p04-pagatrabajador/obj/Debug/net5.0/p04-pagatrabajador.genruntimeconfig.cache

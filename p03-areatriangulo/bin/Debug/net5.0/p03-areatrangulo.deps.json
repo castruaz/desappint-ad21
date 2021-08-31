@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "p03-areatrangulo/1.0.0": {
+        "runtime": {
+          "p03-areatrangulo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "p03-areatrangulo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,16 +1,31 @@
-C:\desappint21\p01-holamundo\bin\Debug\net5.0\p01-holamundo.exe
-C:\desappint21\p01-holamundo\bin\Debug\net5.0\p01-holamundo.deps.json
-C:\desappint21\p01-holamundo\bin\Debug\net5.0\p01-holamundo.runtimeconfig.json
-C:\desappint21\p01-holamundo\bin\Debug\net5.0\p01-holamundo.runtimeconfig.dev.json
-C:\desappint21\p01-holamundo\bin\Debug\net5.0\p01-holamundo.dll
-C:\desappint21\p01-holamundo\bin\Debug\net5.0\ref\p01-holamundo.dll
-C:\desappint21\p01-holamundo\bin\Debug\net5.0\p01-holamundo.pdb
-C:\desappint21\p01-holamundo\obj\Debug\net5.0\p01-holamundo.csproj.AssemblyReference.cache
-C:\desappint21\p01-holamundo\obj\Debug\net5.0\p01-holamundo.GeneratedMSBuildEditorConfig.editorconfig
-C:\desappint21\p01-holamundo\obj\Debug\net5.0\p01-holamundo.AssemblyInfoInputs.cache
-C:\desappint21\p01-holamundo\obj\Debug\net5.0\p01-holamundo.AssemblyInfo.cs
-C:\desappint21\p01-holamundo\obj\Debug\net5.0\p01-holamundo.csproj.CoreCompileInputs.cache
-C:\desappint21\p01-holamundo\obj\Debug\net5.0\p01-holamundo.dll
-C:\desappint21\p01-holamundo\obj\Debug\net5.0\ref\p01-holamundo.dll
-C:\desappint21\p01-holamundo\obj\Debug\net5.0\p01-holamundo.pdb
-C:\desappint21\p01-holamundo\obj\Debug\net5.0\p01-holamundo.genruntimeconfig.cache
+C:/desappint21/p01-holamundo/bin/Debug/net5.0/p01-holamundo.exe
+C:/desappint21/p01-holamundo/bin/Debug/net5.0/p01-holamundo.deps.json
+C:/desappint21/p01-holamundo/bin/Debug/net5.0/p01-holamundo.runtimeconfig.json
+C:/desappint21/p01-holamundo/bin/Debug/net5.0/p01-holamundo.runtimeconfig.dev.json
+C:/desappint21/p01-holamundo/bin/Debug/net5.0/p01-holamundo.dll
+C:/desappint21/p01-holamundo/bin/Debug/net5.0/ref/p01-holamundo.dll
+C:/desappint21/p01-holamundo/bin/Debug/net5.0/p01-holamundo.pdb
+C:/desappint21/p01-holamundo/obj/Debug/net5.0/p01-holamundo.csproj.AssemblyReference.cache
+C:/desappint21/p01-holamundo/obj/Debug/net5.0/p01-holamundo.GeneratedMSBuildEditorConfig.editorconfig
+C:/desappint21/p01-holamundo/obj/Debug/net5.0/p01-holamundo.AssemblyInfoInputs.cache
+C:/desappint21/p01-holamundo/obj/Debug/net5.0/p01-holamundo.AssemblyInfo.cs
+C:/desappint21/p01-holamundo/obj/Debug/net5.0/p01-holamundo.csproj.CoreCompileInputs.cache
+C:/desappint21/p01-holamundo/obj/Debug/net5.0/p01-holamundo.dll
+C:/desappint21/p01-holamundo/obj/Debug/net5.0/ref/p01-holamundo.dll
+C:/desappint21/p01-holamundo/obj/Debug/net5.0/p01-holamundo.pdb
+C:/desappint21/p01-holamundo/obj/Debug/net5.0/p01-holamundo.genruntimeconfig.cache
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p01-holamundo/bin/Debug/net5.0/p01-holamundo.deps.json
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p01-holamundo/bin/Debug/net5.0/p01-holamundo.runtimeconfig.json
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p01-holamundo/bin/Debug/net5.0/p01-holamundo.runtimeconfig.dev.json
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p01-holamundo/bin/Debug/net5.0/p01-holamundo.dll
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p01-holamundo/bin/Debug/net5.0/ref/p01-holamundo.dll
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p01-holamundo/bin/Debug/net5.0/p01-holamundo.pdb
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p01-holamundo/obj/Debug/net5.0/p01-holamundo.csproj.AssemblyReference.cache
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p01-holamundo/obj/Debug/net5.0/p01-holamundo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p01-holamundo/obj/Debug/net5.0/p01-holamundo.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p01-holamundo/obj/Debug/net5.0/p01-holamundo.AssemblyInfo.cs
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p01-holamundo/obj/Debug/net5.0/p01-holamundo.csproj.CoreCompileInputs.cache
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p01-holamundo/obj/Debug/net5.0/p01-holamundo.dll
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p01-holamundo/obj/Debug/net5.0/ref/p01-holamundo.dll
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p01-holamundo/obj/Debug/net5.0/p01-holamundo.pdb
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p01-holamundo/obj/Debug/net5.0/p01-holamundo.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p06-pizza/obj/Debug/net5.0/p06-pizza.csproj.AssemblyReference.cache
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p06-pizza/obj/Debug/net5.0/p06-pizza.GeneratedMSBuildEditorConfig.editorconfig
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p06-pizza/obj/Debug/net5.0/p06-pizza.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p06-pizza/obj/Debug/net5.0/p06-pizza.AssemblyInfo.cs
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p06-pizza/obj/Debug/net5.0/p06-pizza.csproj.CoreCompileInputs.cache
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p06-pizza/bin/Debug/net5.0/p06-pizza.deps.json
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p06-pizza/bin/Debug/net5.0/p06-pizza.runtimeconfig.json
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p06-pizza/bin/Debug/net5.0/p06-pizza.runtimeconfig.dev.json
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p06-pizza/bin/Debug/net5.0/p06-pizza.dll
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p06-pizza/bin/Debug/net5.0/ref/p06-pizza.dll
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p06-pizza/bin/Debug/net5.0/p06-pizza.pdb
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p06-pizza/obj/Debug/net5.0/p06-pizza.dll
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p06-pizza/obj/Debug/net5.0/ref/p06-pizza.dll
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p06-pizza/obj/Debug/net5.0/p06-pizza.pdb
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p06-pizza/obj/Debug/net5.0/p06-pizza.genruntimeconfig.cache

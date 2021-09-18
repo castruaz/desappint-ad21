@@ -1,0 +1,15 @@
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p11-vectorsumas/obj/Debug/net5.0/p11-vectorsumas.csproj.AssemblyReference.cache
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p11-vectorsumas/obj/Debug/net5.0/p11-vectorsumas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p11-vectorsumas/obj/Debug/net5.0/p11-vectorsumas.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p11-vectorsumas/obj/Debug/net5.0/p11-vectorsumas.AssemblyInfo.cs
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p11-vectorsumas/obj/Debug/net5.0/p11-vectorsumas.csproj.CoreCompileInputs.cache
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p11-vectorsumas/bin/Debug/net5.0/p11-vectorsumas.deps.json
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p11-vectorsumas/bin/Debug/net5.0/p11-vectorsumas.runtimeconfig.json
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p11-vectorsumas/bin/Debug/net5.0/p11-vectorsumas.runtimeconfig.dev.json
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p11-vectorsumas/bin/Debug/net5.0/p11-vectorsumas.dll
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p11-vectorsumas/bin/Debug/net5.0/ref/p11-vectorsumas.dll
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p11-vectorsumas/bin/Debug/net5.0/p11-vectorsumas.pdb
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p11-vectorsumas/obj/Debug/net5.0/p11-vectorsumas.dll
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p11-vectorsumas/obj/Debug/net5.0/ref/p11-vectorsumas.dll
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p11-vectorsumas/obj/Debug/net5.0/p11-vectorsumas.pdb
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p11-vectorsumas/obj/Debug/net5.0/p11-vectorsumas.genruntimeconfig.cache

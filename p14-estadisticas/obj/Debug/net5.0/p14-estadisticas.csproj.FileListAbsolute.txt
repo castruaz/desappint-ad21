@@ -1,0 +1,15 @@
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p14-estadisticas/bin/Debug/net5.0/p14-estadisticas.deps.json
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p14-estadisticas/bin/Debug/net5.0/p14-estadisticas.runtimeconfig.json
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p14-estadisticas/bin/Debug/net5.0/p14-estadisticas.runtimeconfig.dev.json
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p14-estadisticas/bin/Debug/net5.0/p14-estadisticas.dll
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p14-estadisticas/bin/Debug/net5.0/ref/p14-estadisticas.dll
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p14-estadisticas/bin/Debug/net5.0/p14-estadisticas.pdb
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p14-estadisticas/obj/Debug/net5.0/p14-estadisticas.csproj.AssemblyReference.cache
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p14-estadisticas/obj/Debug/net5.0/p14-estadisticas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p14-estadisticas/obj/Debug/net5.0/p14-estadisticas.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p14-estadisticas/obj/Debug/net5.0/p14-estadisticas.AssemblyInfo.cs
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p14-estadisticas/obj/Debug/net5.0/p14-estadisticas.csproj.CoreCompileInputs.cache
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p14-estadisticas/obj/Debug/net5.0/p14-estadisticas.dll
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p14-estadisticas/obj/Debug/net5.0/ref/p14-estadisticas.dll
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p14-estadisticas/obj/Debug/net5.0/p14-estadisticas.pdb
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p14-estadisticas/obj/Debug/net5.0/p14-estadisticas.genruntimeconfig.cache

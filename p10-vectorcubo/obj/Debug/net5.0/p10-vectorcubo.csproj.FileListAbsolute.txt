@@ -1,0 +1,15 @@
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p10-vectorcubo/obj/Debug/net5.0/p10-vectorcubo.csproj.AssemblyReference.cache
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p10-vectorcubo/obj/Debug/net5.0/p10-vectorcubo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p10-vectorcubo/obj/Debug/net5.0/p10-vectorcubo.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p10-vectorcubo/obj/Debug/net5.0/p10-vectorcubo.AssemblyInfo.cs
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p10-vectorcubo/obj/Debug/net5.0/p10-vectorcubo.csproj.CoreCompileInputs.cache
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p10-vectorcubo/bin/Debug/net5.0/p10-vectorcubo.deps.json
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p10-vectorcubo/bin/Debug/net5.0/p10-vectorcubo.runtimeconfig.json
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p10-vectorcubo/bin/Debug/net5.0/p10-vectorcubo.runtimeconfig.dev.json
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p10-vectorcubo/bin/Debug/net5.0/p10-vectorcubo.dll
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p10-vectorcubo/bin/Debug/net5.0/ref/p10-vectorcubo.dll
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p10-vectorcubo/bin/Debug/net5.0/p10-vectorcubo.pdb
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p10-vectorcubo/obj/Debug/net5.0/p10-vectorcubo.dll
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p10-vectorcubo/obj/Debug/net5.0/ref/p10-vectorcubo.dll
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p10-vectorcubo/obj/Debug/net5.0/p10-vectorcubo.pdb
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p10-vectorcubo/obj/Debug/net5.0/p10-vectorcubo.genruntimeconfig.cache

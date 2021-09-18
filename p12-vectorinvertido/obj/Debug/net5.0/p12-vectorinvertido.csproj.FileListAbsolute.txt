@@ -1,0 +1,15 @@
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p12-vectorinvertido/bin/Debug/net5.0/p12-vectorinvertido.deps.json
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p12-vectorinvertido/bin/Debug/net5.0/p12-vectorinvertido.runtimeconfig.json
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p12-vectorinvertido/bin/Debug/net5.0/p12-vectorinvertido.runtimeconfig.dev.json
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p12-vectorinvertido/bin/Debug/net5.0/p12-vectorinvertido.dll
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p12-vectorinvertido/bin/Debug/net5.0/ref/p12-vectorinvertido.dll
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p12-vectorinvertido/bin/Debug/net5.0/p12-vectorinvertido.pdb
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p12-vectorinvertido/obj/Debug/net5.0/p12-vectorinvertido.csproj.AssemblyReference.cache
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p12-vectorinvertido/obj/Debug/net5.0/p12-vectorinvertido.GeneratedMSBuildEditorConfig.editorconfig
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p12-vectorinvertido/obj/Debug/net5.0/p12-vectorinvertido.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p12-vectorinvertido/obj/Debug/net5.0/p12-vectorinvertido.AssemblyInfo.cs
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p12-vectorinvertido/obj/Debug/net5.0/p12-vectorinvertido.csproj.CoreCompileInputs.cache
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p12-vectorinvertido/obj/Debug/net5.0/p12-vectorinvertido.dll
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p12-vectorinvertido/obj/Debug/net5.0/ref/p12-vectorinvertido.dll
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p12-vectorinvertido/obj/Debug/net5.0/p12-vectorinvertido.pdb
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p12-vectorinvertido/obj/Debug/net5.0/p12-vectorinvertido.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p08-vectorpromedio/obj/Debug/net5.0/p08-vectorpromedio.csproj.AssemblyReference.cache
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p08-vectorpromedio/obj/Debug/net5.0/p08-vectorpromedio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p08-vectorpromedio/obj/Debug/net5.0/p08-vectorpromedio.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p08-vectorpromedio/obj/Debug/net5.0/p08-vectorpromedio.AssemblyInfo.cs
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p08-vectorpromedio/obj/Debug/net5.0/p08-vectorpromedio.csproj.CoreCompileInputs.cache
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p08-vectorpromedio/bin/Debug/net5.0/p08-vectorpromedio.deps.json
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p08-vectorpromedio/bin/Debug/net5.0/p08-vectorpromedio.runtimeconfig.json
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p08-vectorpromedio/bin/Debug/net5.0/p08-vectorpromedio.runtimeconfig.dev.json
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p08-vectorpromedio/bin/Debug/net5.0/p08-vectorpromedio.dll
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p08-vectorpromedio/bin/Debug/net5.0/ref/p08-vectorpromedio.dll
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p08-vectorpromedio/bin/Debug/net5.0/p08-vectorpromedio.pdb
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p08-vectorpromedio/obj/Debug/net5.0/p08-vectorpromedio.dll
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p08-vectorpromedio/obj/Debug/net5.0/ref/p08-vectorpromedio.dll
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p08-vectorpromedio/obj/Debug/net5.0/p08-vectorpromedio.pdb
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p08-vectorpromedio/obj/Debug/net5.0/p08-vectorpromedio.genruntimeconfig.cache

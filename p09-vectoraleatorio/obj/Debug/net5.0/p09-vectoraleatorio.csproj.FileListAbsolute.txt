@@ -1,0 +1,15 @@
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p09-vectoraleatorio/bin/Debug/net5.0/p09-vectoraleatorio.deps.json
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p09-vectoraleatorio/bin/Debug/net5.0/p09-vectoraleatorio.runtimeconfig.json
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p09-vectoraleatorio/bin/Debug/net5.0/p09-vectoraleatorio.runtimeconfig.dev.json
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p09-vectoraleatorio/bin/Debug/net5.0/p09-vectoraleatorio.dll
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p09-vectoraleatorio/bin/Debug/net5.0/ref/p09-vectoraleatorio.dll
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p09-vectoraleatorio/bin/Debug/net5.0/p09-vectoraleatorio.pdb
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p09-vectoraleatorio/obj/Debug/net5.0/p09-vectoraleatorio.csproj.AssemblyReference.cache
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p09-vectoraleatorio/obj/Debug/net5.0/p09-vectoraleatorio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p09-vectoraleatorio/obj/Debug/net5.0/p09-vectoraleatorio.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p09-vectoraleatorio/obj/Debug/net5.0/p09-vectoraleatorio.AssemblyInfo.cs
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p09-vectoraleatorio/obj/Debug/net5.0/p09-vectoraleatorio.csproj.CoreCompileInputs.cache
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p09-vectoraleatorio/obj/Debug/net5.0/p09-vectoraleatorio.dll
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p09-vectoraleatorio/obj/Debug/net5.0/ref/p09-vectoraleatorio.dll
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p09-vectoraleatorio/obj/Debug/net5.0/p09-vectoraleatorio.pdb
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p09-vectoraleatorio/obj/Debug/net5.0/p09-vectoraleatorio.genruntimeconfig.cache

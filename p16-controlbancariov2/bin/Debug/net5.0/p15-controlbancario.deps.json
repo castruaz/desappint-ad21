@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "p15-controlbancario/1.0.0": {
+        "runtime": {
+          "p15-controlbancario.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "p15-controlbancario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

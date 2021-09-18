@@ -22,8 +22,8 @@ namespace p17_repasopoo
         }
 
         public override string ToString() =>
-            $"Clave: {clave} Vendedor: {vendedor} Descripcion: {descripcion} Tipo: {tipo} " +
-            $"Fecha: {fecha.ToString("dd/mm/yy")} Antiguedad: {Antiguedad.ToString()}";
+            $"Clave: {clave,-12} Vendedor: {vendedor,-10} Descripcion: {descripcion,-63} Tipo: {tipo,-8} " +
+            $"Fecha: {fecha.ToString("dd/mm/yy"),-8} Antiguedad: {Antiguedad.ToString()}";
 
     }
 }

@@ -19,7 +19,7 @@ namespace p17_repasopoo
         public void AgregarVulnerabilidad(Vulnerabilidad v) => vulnerabilidades.Add(v);
 
         public override string ToString() => 
-                $"Ip: {ip} Tipo: {tipo} Puertos: {puertos} Saltos: {saltos} So: {so}";
+                $"Ip: {ip,-10} Tipo: {tipo,-12} Puertos: {puertos,-3} Saltos: {saltos,-3} So: {so,-8} Totvul:{vulnerabilidades.Count}";
     }
 
 }
